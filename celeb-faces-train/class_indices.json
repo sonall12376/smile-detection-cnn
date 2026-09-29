@@ -1,0 +1,16 @@
+{
+    "info": {
+        "description": "Class index mapping for the Smiling detection model.",
+        "model_name": "celebrity_face_model_small.h5",
+        "type": "binary_classification",
+        "attribute": "Smiling"
+    },
+    "classes": {
+        "Smiling": 1,
+        "Not_Smiling": 0
+    },
+    "labels": {
+        "1": "Smiling \ud83d\ude00",
+        "0": "Not Smiling \ud83d\ude10"
+    }
+}

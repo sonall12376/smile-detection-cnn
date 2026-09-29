@@ -1,0 +1,12 @@
+# CelebA dataset
+celebA/
+
+# Large model files
+*.h5
+
+# Dataset archives
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
